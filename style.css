@@ -1,0 +1,25 @@
+#mycanvas{
+    background-color: white;
+    border-style: groove;
+    border-color: rgba(255, 81, 0, 0.986);
+    border-width:20px ;
+}
+
+#h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique; 
+    background-color: rgb(78, 12, 233);
+    color: rgb(0, 255, 255);
+}
+
+.body{
+ 
+background-image: url(avenger_bg.jpg);
+
+}
+
+#div1{
+
+color: ghostwhite;
+
+}
